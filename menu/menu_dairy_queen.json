@@ -1,0 +1,33 @@
+{
+    "menu_dairy_queen": [
+        "menu_id": 150000,
+        "menu_name": "Dairy Queen Menu",
+        {
+        "Blizzards": [
+            {
+                "item_id": 15300,
+                "item_name": "Butterfinger Blizzard",
+                "item_descr": "Butterfinger candy bars mixed with vanilla ice cream make for an interesting flavor mix",
+                "item_ingredients": "milk, whipping cream, butterfinger candy bar",
+                "item_price": 6.00,
+                "item_photo": "../website/img/bg-img/12.jpg"
+            },
+            {
+                "item_id": 15301,
+                "item_name": "Strawberry Blizzard",
+                "item_descr": "Strawberry icecream whipped and served with chunks of strawberry",
+                "item_ingredients": "milk, whipping cream, strawberries",
+                "item_price": 6.00,
+                "item_photo": "../website/img/bg-img/13.jpg"
+            },
+            {
+                "item_id": 15302,
+                "item_name": "Oreo Blizzard",
+                "item_descr": "Oreo cookies mixed in with vanilla ice cream makes for an interesting combination.",
+                "item_ingredients": "milk, whipping cream, oreo cookies",
+                "item_price": 6.00,
+                "item_photo": "../website/img/bg-img/14.jpg"
+            }
+        ]}
+    ]
+}

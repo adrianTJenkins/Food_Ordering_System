@@ -1,0 +1,43 @@
+{
+    "menu_mcdonalds": [
+        "menu_id": 140000,
+        "menu_name": "McDonald's Menu",
+        {
+        "Drinks": [
+            {
+                "item_id": 14300,
+                "item_name": "Lemonade",
+                "item_descr": "Ice Colde lemonade makes your day shine",
+                "item_ingredients": "lemons, water, sugar",
+                "item_price": 3.00,
+                "item_photo": "../website/img/bg-img/7.jpg"
+            }
+            
+        ]},
+
+        {
+        "Dollor_Value": [
+            {
+                "item_id": 14400,
+                "item_name": "Fries",
+                "item_descr": "Crispy hot fries ready to be eaten",
+                "item_ingredients": "potatoes, salt, seasonings, vegtable oil",
+                "item_price": 1.00,
+                "item_photo": "../website/img/bg-img/10.jpg"
+            }
+        ]},
+
+        {
+            "Burgers": [
+                {
+                    "item_id": 14500,
+                    "item_name": "Big Mac",
+                    "item_descr": "Crispy buns, juicy beef, with pickles, lettuce, and tomatoes makes for a good afternoon lunch.",
+                    "item_ingredients": "bread, beef patties, cheese, tomatoes, pickles, lettuce",
+                    "item_price": 5.00,
+                    "item_photo": "../website/img/bg-img/11.jpg"
+                }
+            ]}
+
+    ] 
+} 

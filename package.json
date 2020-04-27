@@ -1,0 +1,30 @@
+{
+  "name": "food_ordering_system",
+  "version": "1.0.0",
+  "description": "This is an application based on a food ordering system \r similar to that of Door Dash and Uber Eats.  We mainly are\r learning how to utilize databases and learn how to link them \r to the front end.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelleytinavw/Food_Ordering_System.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelleytinavw/Food_Ordering_System/issues"
+  },
+  "homepage": "https://github.com/kelleytinavw/Food_Ordering_System#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.3",
+    "mongodb": "^3.5.6",
+    "mongoose": "^5.9.10",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.3",
+    "sqlite3": "^4.1.1"
+  }
+}
